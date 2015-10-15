@@ -22,5 +22,5 @@ Files in Github project
 * [APK]
 
     
-![alt tag](https://github.com/ferart/EnvoyGameArthur/blob/master/main.png)
-![alt tag](https://github.com/ferart/EnvoyGameArthur/blob/master/adding.png)
+![alt tag](https://github.com/ferart/CodeReview_ArthurRocha/blob/master/architecture.png)
+![alt tag](https://github.com/ferart/CodeReview_ArthurRocha/blob/master/screenshot.png)
